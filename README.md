@@ -1,5 +1,12 @@
 # Criando uma VNET
 
+ ### O que é uma Vnet (Virtual Nertwok)? ###
+
+  Vnet é nada mais que a criação de uma rede, onde podemos criar um range de IP e as Subnets, onde podemos conectar as VM e recursos que dependem de uma rede para que seu funcionamento ocorre de maneira correta.
+ Também podemos criarmos coxeões com outras redes tanto On-premises Cloud, VPN etc...
+
+
+
 1 Dentro do rg clique em “Create”  e logo em seguite pesquise por “Virtual Network” e selecione.
 
 - 1.1
