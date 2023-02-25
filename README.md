@@ -35,3 +35,5 @@ Present15 years 11 months1.8 Passando do Review e Create, só clicar em “Creat
 ![image](https://user-images.githubusercontent.com/119356073/220226383-4c66b09f-7414-490f-9391-c443634a15d3.png)
 ![image](https://user-images.githubusercontent.com/119356073/220226414-c83e7fe3-ee31-4f88-92b8-b326bd9ffb04.png)
 ![image](https://user-images.githubusercontent.com/119356073/220226430-d09cdb6c-7f43-4b3c-90ea-1265aa5cf07d.png)
+##
+**Aula prática: https://www.youtube.com/watch?v=4nZ5qRTYe_s**
